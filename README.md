@@ -10,6 +10,7 @@ An example project with grunt-angular-phonegap
         git clone https://github.com/krahman/PhonegapAngularjs.git
 
 2. Go to project PhonegapAngularjs folder
+
 		cd PhonegapAngularjs
 		
 3. Install npm modules
